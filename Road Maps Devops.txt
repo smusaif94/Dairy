@@ -9,3 +9,6 @@ paython
 https://www.youtube.com/playlist?list=PLdpzxOOAlwvKwTyYNJCUwGPvql0TrsPgv
 
 started DATE 1/11/2024
+
+by veeramalla
+https://github.com/iam-veeramalla/python-for-devops

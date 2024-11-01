@@ -1,0 +1,27 @@
+Azure Resources
+------------------------------
+1. Azure Kubernetes Service (AKS)
+2. Azure Application Gateway
+3. Azure API Management (APIM)
+4. Azure Virtual Network (VNet)
+5. Azure Monitor
+6. Azure Application Insights
+7. Azure Log Analytics Workspace
+8. Azure Monitor Workspace
+9. Azure Workspace
+10. Azure Redis Cache
+11. Azure Service Bus
+12. Azure ExpressRoute
+13. Azure Key Vault
+14. Azure Bastion
+15. Prometheus
+16. Azure Action Group
+17. API Connection
+18. Activity Log Alert Rule
+19. Azure Database for MySQL Flexible Server
+20. Azure Workbook
+21. Data Collection Endpoint
+22. Data Collection Rule
+23. Azure Disk
+24. Event Grid System Topic
+25. Azure Load Balancer
